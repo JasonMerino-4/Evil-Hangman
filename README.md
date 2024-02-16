@@ -17,6 +17,6 @@ Argument Parameters: Mutiple parameters are allowed for running the game
 
 -p: pattern list mode, print all possible patterns based off the current lettes
 
--v: enabled all of the above at once
+-v: enables all of the above at once
 
 **Status: Complete**
